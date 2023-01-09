@@ -29,7 +29,7 @@ The Gilliflower (Gilly Flower or Jilly Flower) is a type of carnation that was g
        label="Gilliflower"
        description="A type of carnation flower grown while William H. Dorsey owned the Dumbarton Oaks property."
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://www.britannica.com/plant/gillyflower/images-videos">
 
 ## Map
 
