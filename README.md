@@ -6,7 +6,7 @@
        banner="93586813_3252343754784183_882046404103503872_n.jpg"
        layout="vertical">
 
-<param ve-image label="Matthiola incana" description="Type of carnation" license="public domain" url="https://www.istockphoto.com/photo/vibrant-colors-of-the-stock-flowers-gm841386306-138030669?irgwc=1&cid=IS&utm_medium=affiliate&utm_source=Du%C5%A1an%20Bi%C4%8Danski%20Pr%20Digitalnio&clickid=TpvTGBR04xyNWho3IayqmXgsUkAwRgzEww8OxU0&utm_term=&utm_campaign=&utm_content=258824&irpid=1404368)"
+<param ve-image label="Matthiola incana" description="Type of carnation" url="Dorsey p. 2 (Unknown – Diary Entries).pdf"
        
 # Sample visual essay
 
