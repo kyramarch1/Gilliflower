@@ -6,14 +6,8 @@
        banner="https://www.britannica.com/plant/gillyflower/images-videos"
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
-
+<param ve-image label="Matthiola incana" description="Type of carnation" license="public domain" url="https://www.istockphoto.com/photo/vibrant-colors-of-the-stock-flowers-gm841386306-138030669?irgwc=1&cid=IS&utm_medium=affiliate&utm_source=Du%C5%A1an%20Bi%C4%8Danski%20Pr%20Digitalnio&clickid=TpvTGBR04xyNWho3IayqmXgsUkAwRgzEww8OxU0&utm_term=&utm_campaign=&utm_content=258824&irpid=1404368)"
+       
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
@@ -29,7 +23,7 @@ The Gilliflower (Gilly Flower or Jilly Flower) is a type of carnation that was g
        label="Gilliflower"
        description="A type of carnation flower grown while William H. Dorsey owned the Dumbarton Oaks property."
        license="public domain" 
-       url="https://www.britannica.com/plant/gillyflower/images-videos">
+       url="https://www.britannica.com/plant/gillyflower/images-videos](https://www.istockphoto.com/photo/vibrant-colors-of-the-stock-flowers-gm841386306-138030669?irgwc=1&cid=IS&utm_medium=affiliate&utm_source=Du%C5%A1an%20Bi%C4%8Danski%20Pr%20Digitalnio&clickid=TpvTGBR04xyNWho3IayqmXgsUkAwRgzEww8OxU0&utm_term=&utm_campaign=&utm_content=258824&irpid=1404368)">
 
 ## Map
 
