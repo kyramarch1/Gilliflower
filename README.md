@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="Gilliflower/Jilly Flower"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       author="Kyra March"
+       banner="https://www.britannica.com/plant/gillyflower/images-videos"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -24,9 +24,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+The Gilliflower (Gilly Flower or Jilly Flower) is a type of carnation that was grown at Dumbarton Oaks and mentioned in the archival records of the William H. Dorsey family.
 <param ve-image 
        label="Gilliflower"
        description="A type of carnation flower grown while William H. Dorsey owned the Dumbarton Oaks property."
