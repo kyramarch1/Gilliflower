@@ -21,9 +21,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 The Gilliflower (Gilly Flower or Jilly Flower) is a type of carnation that was grown at Dumbarton Oaks and mentioned in the archival records of the William H. Dorsey family.
 <param ve-image 
        label="Gilliflower"
-       description="A type of carnation flower grown while William H. Dorsey owned the Dumbarton Oaks property."
-       license="public domain" 
-       url="https://www.britannica.com/plant/gillyflower/images-videos](https://www.istockphoto.com/photo/vibrant-colors-of-the-stock-flowers-gm841386306-138030669?irgwc=1&cid=IS&utm_medium=affiliate&utm_source=Du%C5%A1an%20Bi%C4%8Danski%20Pr%20Digitalnio&clickid=TpvTGBR04xyNWho3IayqmXgsUkAwRgzEww8OxU0&utm_term=&utm_campaign=&utm_content=258824&irpid=1404368)">
+       description="Dorsey p. 2 (Unknown – Diary Entries).pdf">
 
 ## Map
 
