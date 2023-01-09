@@ -9,4 +9,4 @@
 ## Image
 
 The Gilliflower (Gilly Flower or Jilly Flower) is a type of carnation that was grown at Dumbarton Oaks and mentioned in the archival records of the William H. Dorsey family.
-<param ve-image region="83,408,262,196" manifest="Dorsey p. 2 (Unknown – Diary Entries).png">
+<param ve-image region="83,408,262,196" url="Dorsey p. 2 (Unknown – Diary Entries).png">
